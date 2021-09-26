@@ -134,7 +134,8 @@ Quirk is built with two main goals in mind:
 
 **Be quick and efficient.** Thoughts shouldn't take 5 minutes to enter and you should be able to skip fields if it's reasonable. Don't let the perfect be the enemy of the good.
 
-### Don't be Evil
+### Don't be Evil 
+Don'tbe cruel or be unkind to them. Help them when they are in need.
 
 **Thoughts are more valuable than passwords, treat them that way.** Most people would rather give over their passwords than their CBT thoughts. They're incredibly private, occasionally involve other people, and frequently are embarrassing.
 
@@ -166,7 +167,7 @@ All thoughts have been corrupted somehow. For example, the JSON format of every 
 
 ### 2 - Large Scale Data Loss
 
-All thoughts have been deleted without any hope of recovery.
+All thoughts have been deleted without any hope of recovery. Ex: not knowong who they are, not knowing what they have, etc.
 
 ### 3 - Small Scale Data Loss
 
